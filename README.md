@@ -5,6 +5,14 @@
 - Trang chủ 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30e512a1-0071-40a8-a9db-6722baa5e08b" />
 
+- Thêm sinh viên
+![Animation](https://github.com/user-attachments/assets/9687cc85-6117-4dc2-a813-0c790778796c)
+
+- Sửa
+![UpdateCD1_Lab](https://github.com/user-attachments/assets/1e6c00be-732e-44a1-9721-1b0b68f0035a)
+
+- Xóa
+![DeleteCD1_Lab](https://github.com/user-attachments/assets/fe2c874c-a6a4-41b0-b48b-2989bd2eef73)
 
 ## 🚀 Các tính năng chính
 - **Quản lý Sinh viên (CRUD)**: Thêm mới, Chỉnh sửa, Xóa và Hiển thị danh sách sinh viên.
