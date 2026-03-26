@@ -1,3 +1,10 @@
+## Giao diện
+- Thêm sinh viên
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8d1e32a-39c6-441c-bf3c-454cdecf15d1" />
+- Trang chủ 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30e512a1-0071-40a8-a9db-6722baa5e08b" />
+
+
 ## 🚀 Các tính năng chính
 - **Quản lý Sinh viên (CRUD)**: Thêm mới, Chỉnh sửa, Xóa và Hiển thị danh sách sinh viên.
 - **Lưu trữ Cơ sở dữ liệu**: Kết nối MySQL qua PDO giúp bảo mật và ổn định.
