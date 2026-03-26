@@ -1,7 +1,7 @@
 ## Giao diện
--Thêm sinh viên
+- Thêm sinh viên
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8d1e32a-39c6-441c-bf3c-454cdecf15d1" />
--Trang chủ 
+- Trang chủ 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30e512a1-0071-40a8-a9db-6722baa5e08b" />
 
 
